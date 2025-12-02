@@ -13,6 +13,10 @@ The dashboard is divided into two main pages:
 1. **Dashboard Page** – Sales KPIs, product insights, trend analysis
 2. **Insight Page** – Detailed transaction table with dynamic filtering
 
+<img width="491" height="287" alt="coffeedashhh1" src="https://github.com/user-attachments/assets/ea1bcfcc-1703-40c1-92f5-2017febb8f56" />
+
+<img width="494" height="290" alt="coffeedashhh2" src="https://github.com/user-attachments/assets/027071e0-3db8-40e0-a3f6-ab84c0e8107b" />
+
 ---
 
 ## 🎯 **Objectives**
@@ -172,4 +176,5 @@ This dashboard provides a complete end-to-end analysis of customer behavior and 
 * How to optimize product availability and marketing efforts
 
 ---
-
+📬 Contact
+[Olayinka] – Data Analyst 📧 [Thoughtsbyyinka@gmail.com] 🔗 [LinkedIn/https://bit.ly/45RnxeD]
